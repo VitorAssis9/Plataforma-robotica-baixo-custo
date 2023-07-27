@@ -11,6 +11,6 @@ Peças utilizadas na montagem do robô:
 | Ponte H                   | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1347075835-driver-motor-ponte-h-dupla-l298n-_JM?matt_tool=63064967&matt_word=&matt_source=google&matt_campaign_id=14303413826&matt_ad_group_id=133431076203&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584156655540&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=646268484&matt_product_id=MLB1347075835&matt_product_partition_id=310365260760&matt_target_id=aud-378637574381:pla-310365260760&gclid=CjwKCAiA_6yfBhBNEiwAkmXy59VJPwVsSh-KYDl0VE_o9OfLCCYq6A4oF58dyhtshKfCfPAvB4MtLBoCbWgQAvD_BwE)       |
 | Filamento                 | [GTMAX3D](https://www.gtmax3d.com.br/filamentos/abs-premium)       |
 | Placa WeMos D1            | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-1654901596-placa-wemos-d1-r2-wifi-esp8266-ide-compativel-do-arduino-_JM#position=4&search_layout=grid&type=item&tracking_id=2409f693-e2d9-49e7-b8de-bc74dc06932d)       |
-| Shield                    | [Modelo para montagem](https://github.com/VitorAssis9/Plataforma-robotica-baixo-custo/tree/main/Shield)   |
+| Shield                    | [Shield](https://github.com/VitorAssis9/Plataforma-robotica-baixo-custo/tree/main/Shield)   |
 | Kit 4 Motores DC          | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2030898738-4-x-motor-dc-3-6v-cx-reduco-e-eixo-duplo-roda-68mm-cnf-_JM#position=35&search_layout=grid&type=item&tracking_id=693da132-0130-410f-833b-c241a175b180)       |
 
