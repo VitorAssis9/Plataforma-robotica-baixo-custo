@@ -4,7 +4,7 @@ Peças utilizadas na montagem do robô:
 
 | Peças       | Link        | 
 | :----:      |    :----:   |  
-| Micro Servo Motor         | [Mercado Livre]([https://duckduckgo.com](https://produto.mercadolivre.com.br/MLB-3139089695-micro-servo-motor-arduino-sg90-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic))       |
+| Micro Servo Motor         | [Mercado Livre](https://produto.mercadolivre.com.br/MLB-3139089695-micro-servo-motor-arduino-sg90-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic)       |
 | Sensor IR Sharp Gp2y0a21  | [Mercado Livre]       |
 | Power Bank                | [Mercado Livre]       |
 | Cabos Jumper              | [Mercado Livre]       |
