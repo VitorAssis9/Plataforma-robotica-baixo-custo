@@ -12,6 +12,14 @@ Peças utilizadas na montagem do robô:
 9. Kit 4 Motores DC. 
 
 | Peças       | Link        | 
-| :---        |    :----:   |  
-| Header      | Title       | 
-| Paragraph   | Text        |
+| :----:      |    :----:   |  
+| Micro Servo Motor         | Title       |
+| Sensor IR Sharp Gp2y0a21  | Title       |
+| Power Bank                | Title       |
+| Cabos Jumper              | Title       |
+| Ponte H                   | Title       |
+| Filamento                 | Title       |
+| Placa WeMos D1            | Title       |
+| Shield                    | Title       |
+| Kit 4 Motores DC          | Title       |
+
