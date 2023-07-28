@@ -3,7 +3,10 @@
 
 Este robô foi desenvolvido para ser aplicado em salas de aula de graduação e para projetos educacionais. O objetivo principal é tornar acessível o acesso a robótica para estudantes universitários, levando em consideração a crescente aplicação dos conceitos desse campo no mercado de trabalho. Para que isso seja possível, a construção da plataforma robótica seleciona componentes de custo-benefício, tornando-a mais acessível que outras disponíveis no mercado. Portanto, o robô foi submetido a testes reais visando validar sua competência, aproveitando ferramentas do ROS com a linguagem de programação Python.
 
-Peças utilizadas na montagem do robô:
+**Códigos:**
+Os códigos apresentados
+
+**Peças utilizadas na montagem do robô:**
 
 | Peças       | Link        | 
 | :----:      |    :----:   |  
