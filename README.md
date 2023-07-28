@@ -6,7 +6,9 @@ Este robô foi desenvolvido para ser aplicado em salas de aula de graduação e 
 **Códigos:**
 
 BOB_wifi_ros.ino: Código que conecta a placa com todos os componentes do robô.
+
 desvio_obsaculos.py: Código que faz com que o robô ande para frente e desvia quando detecta a presença de algum  obstáculo.
+
 servo_pub.py: Código que faz com que o servo motor se mova em posiçôes diferentes em 180° para auxiliar no desvio de obstáculos.
 
 **Peças utilizadas na montagem do robô:**
