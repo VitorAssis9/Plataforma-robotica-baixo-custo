@@ -11,6 +11,10 @@ desvio_obsaculos.py: Código que faz com que o robô ande para frente e desvia q
 
 servo_pub.py: Código que faz com que o servo motor se mova em posiçôes diferentes em 180° para auxiliar no desvio de obstáculos.
 
+ScriptRoboSimulado.ttt: Código para abrir no CoppeliaSim(ambiente simulado) para mostrar o robô em um simulador.
+
+CoppeliaSimScript.lua: Código em linguagem lua que define as caracteristicas e funcionalidades do robô dentro do ambiente simulado.
+
 **Peças utilizadas na montagem do robô:**
 
 | Peças       | Link        | 
